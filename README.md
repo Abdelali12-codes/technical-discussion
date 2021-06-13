@@ -17,5 +17,6 @@ This is the [notbook](https://github.com/Abdelali12-codes/technical-discussion/b
 
 ### Image
 
-![Uploading colab.png…]()
+<img width="483" alt="colab" src="https://user-images.githubusercontent.com/67081878/121816316-cc3fbf80-cc72-11eb-9b1d-e65755a6edd6.png">
+
 
