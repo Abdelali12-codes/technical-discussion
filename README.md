@@ -14,3 +14,8 @@ This is a good example of [my code](https://gist.github.com/Abdelali12-codes/915
 ### Colab Example
 
 This is the [notbook](https://github.com/Abdelali12-codes/technical-discussion/blob/main/technical_docs.ipynb)
+
+### Image
+
+![Uploading colab.png…]()
+
